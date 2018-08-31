@@ -1,0 +1,2 @@
+127.0.0.1	2017-04-10 04:04:54	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0	/manager/
+127.0.0.1	2017-04-10 04:05:26	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0	/manager/

@@ -1,0 +1,225 @@
+127.0.0.1	2017-05-04 03:19:31	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 03:21:18	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 03:22:51	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 03:28:15	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 03:28:58	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 03:29:59	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 03:30:16	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 03:30:40	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 03:31:02	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 03:31:35	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 03:32:11	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 03:32:14	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 03:32:37	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 03:32:58	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 03:33:51	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 03:34:39	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 03:38:14	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 03:40:12	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 03:41:43	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 03:42:12	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 03:50:18	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 03:52:20	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 03:54:46	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 04:12:11	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 04:22:53	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 04:23:38	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 04:25:37	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 04:25:56	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 04:26:07	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 04:26:45	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 04:27:14	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 04:27:39	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 04:29:49	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 04:29:59	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 04:30:57	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 04:31:53	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 04:34:02	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 04:44:43	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 04:45:25	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 04:46:15	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 04:47:41	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 04:48:58	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 04:49:51	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 04:53:28	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 04:53:32	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 04:54:33	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 04:55:50	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 04:57:31	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 04:59:09	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 05:01:53	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 05:02:24	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 05:03:28	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 05:06:28	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 05:07:46	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 05:07:57	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 05:08:03	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 05:14:18	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 05:16:54	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 05:17:02	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 05:17:22	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 05:20:38	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 05:21:15	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 05:24:41	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 05:25:59	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 05:32:49	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 05:33:33	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 05:35:00	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 05:35:37	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 05:36:20	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/?logout
+127.0.0.1	2017-05-04 05:36:43	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/?logout
+127.0.0.1	2017-05-04 05:36:52	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 05:36:58	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/?logout
+127.0.0.1	2017-05-04 05:37:02	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 06:06:26	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 06:07:51	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 06:08:01	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 06:09:13	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 06:13:19	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 06:15:18	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 06:39:14	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 06:39:32	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 06:46:25	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 06:52:06	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 06:52:32	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 06:54:06	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 06:54:23	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 07:00:47	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 07:01:49	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 07:02:02	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 07:12:12	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 07:31:46	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 07:32:04	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 07:39:32	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 07:39:53	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 07:42:53	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 07:43:07	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 07:51:57	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 07:53:38	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 07:57:34	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 07:58:03	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 07:58:17	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 07:59:22	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 08:00:31	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 08:01:38	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 08:05:24	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 08:10:55	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 08:12:03	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 08:21:56	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 08:22:06	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 08:22:22	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 08:23:31	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 08:24:22	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 08:25:21	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 08:25:48	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 08:27:51	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 08:28:36	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 08:30:04	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 08:30:52	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 08:31:47	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 08:35:58	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 08:39:27	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 08:43:30	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 09:47:25	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+192.168.8.105	2017-05-04 09:47:39	Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+192.168.8.105	2017-05-04 09:57:20	Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+192.168.8.105	2017-05-04 09:57:23	Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+192.168.8.105	2017-05-04 09:58:31	Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+192.168.8.105	2017-05-04 09:58:35	Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+192.168.8.105	2017-05-04 09:58:52	Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 09:59:00	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+192.168.8.105	2017-05-04 09:59:01	Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+192.168.8.105	2017-05-04 09:59:05	Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+192.168.8.105	2017-05-04 09:59:15	Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+192.168.8.105	2017-05-04 09:59:22	Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+192.168.8.105	2017-05-04 09:59:48	Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+192.168.8.105	2017-05-04 10:00:01	Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 10:00:01	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+192.168.8.105	2017-05-04 10:00:02	Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 10:00:03	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+192.168.8.105	2017-05-04 10:00:03	Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+192.168.8.105	2017-05-04 10:00:03	Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+192.168.8.105	2017-05-04 10:00:03	Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+192.168.8.105	2017-05-04 10:00:03	Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+192.168.8.105	2017-05-04 10:00:03	Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+192.168.8.105	2017-05-04 10:00:03	Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+192.168.8.105	2017-05-04 10:00:04	Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+192.168.8.105	2017-05-04 10:00:04	Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+192.168.8.105	2017-05-04 10:00:04	Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+192.168.8.105	2017-05-04 10:00:04	Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+192.168.8.105	2017-05-04 10:00:04	Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+192.168.8.105	2017-05-04 10:00:04	Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+192.168.8.105	2017-05-04 10:00:05	Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+192.168.8.105	2017-05-04 10:00:05	Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+192.168.8.105	2017-05-04 10:00:05	Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+192.168.8.105	2017-05-04 10:00:05	Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+192.168.8.105	2017-05-04 10:00:05	Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 10:04:55	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 11:06:22	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 12:05:23	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 12:06:41	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 12:07:55	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 12:09:50	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 12:11:02	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 12:11:09	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 12:12:56	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 12:14:45	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 12:18:16	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 12:19:32	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 12:20:12	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 12:28:53	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 12:29:38	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 12:37:08	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 12:51:04	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 12:55:33	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 12:58:40	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 01:01:47	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 01:05:52	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 01:06:45	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 01:11:13	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 01:14:07	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 01:16:13	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 01:20:16	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 01:20:37	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 01:21:15	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 01:22:14	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 01:25:48	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 01:31:18	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 01:32:47	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 01:33:05	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 01:33:33	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 01:34:01	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 01:34:53	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 01:36:41	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 01:38:59	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 01:41:15	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 01:43:12	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 01:45:03	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 01:45:53	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 01:46:11	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 01:48:01	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 01:51:27	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 01:52:22	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 02:04:33	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 02:08:25	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 02:09:43	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 02:10:56	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 02:11:56	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 02:13:42	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 02:14:39	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 02:16:29	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 02:19:05	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 02:23:08	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 02:24:46	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 02:25:15	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 02:26:21	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 02:27:19	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 02:28:21	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 02:37:25	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 02:37:55	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 02:40:21	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 02:42:36	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 02:43:34	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 02:45:27	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 02:49:54	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/
+127.0.0.1	2017-05-04 02:51:27	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0	/chc_manager/

@@ -1,0 +1,114 @@
+*,p,h1,h2 {
+    padding:0;
+    margin:0;
+    list-style: none;
+}
+
+.profil-box:hover {
+    color:grey;
+    cursor:pointer;
+}
+
+.submenu li {
+    display: inline-block;
+    padding-right: 13px;
+    cursor: pointer;
+    
+}
+
+.submenu li a {
+    color:white;
+}
+
+.submenu li a:hover {
+    opacity:0.85;
+}
+
+h5 {
+    color:grey;
+}
+
+.left_menu li {
+    color:white;
+    padding: 13px 25px;
+    background-color:#1478c6;
+    border-bottom:1px solid #0e446f;
+    cursor:pointer;
+    font-weight:400;
+}
+
+.left_menu li:hover {
+    font-weight:500;
+}
+
+/*
+* Design gestion equipement et materiel
+*/
+.vertical li a{
+    display:block;
+    margin:2px 0px 0px 0px;
+    text-transform:uppercase !important;
+    background-color:#626278;
+    color:#fff;
+    
+}
+
+.vertical li a:hover{
+    display:block;
+    text-transform:uppercase !important;
+    color:#626278;
+    margin:2px 0px 0px 0px;
+}
+
+.vertical li a:focus{
+    display:block;
+    margin:2px 0px 0px 0px;
+    text-transform:uppercase !important;
+
+    color:#346CF3 !important;
+    background:#fff;
+    border:2px solid #fff;
+}
+
+.vertical .active_menu{
+    background:#fff;
+    color:#346CF3;
+    
+}
+
+.tritre-h2{
+    font-size:16px;
+    padding:0px 0px 5px 0px;
+    margin:0px 0px 5px 0px;
+
+    border-bottom:2px solid ;
+    background:transparent;
+}
+
+.form hr{
+    margin-bottom:12px;
+    border:none;
+}
+
+.cradio{
+    padding-left:15px;
+    border-left:1px solid;
+}
+
+
+/* 
+    #################################################################################################"""
+*/
+
+.ard-reveal>div{
+    border:1px solid;
+}
+
+.card-title> div{
+    font-size:18px;
+    padding:5px 12px 5px 8px;
+    margin:5px 8px 12px 8px;
+
+    background:black;
+    color:#fff;
+}
